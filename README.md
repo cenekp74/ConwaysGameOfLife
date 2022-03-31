@@ -12,3 +12,5 @@ https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 - Click cells to change their state
 - Press SPACE to pause/play the game
 - Press C to clear all cells
+
+You can change the game speed separated from fps in start of main.py file.
