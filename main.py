@@ -11,7 +11,7 @@ GREEN = (0, 230, 30)
 SPEED = 10
 FPS = 60
 
-PARENT_DIR = "C:/Users/potuz/Desktop/Projects/conways_game_of_life"
+PARENT_DIR = ""
 
 PAUSE = pygame.image.load(PARENT_DIR+"/"+"textures/pause.png")
 PLAY = pygame.image.load(PARENT_DIR+"/"+"textures/play.png")
